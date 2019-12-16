@@ -20,5 +20,3 @@ Because I only supervised the segmentation at that time, the learning result was
 ![result.png](https://i.loli.net/2019/12/16/5xqsoRhbZa2r3dF.png)
 
 
-### Stage1
-
