@@ -17,6 +17,7 @@ Do segmentation for all the single cropped parts.
 ## Latest Result
 Because I only supervised the segmentation at that time, the learning result was strange. It was not doing segmentation but just generating parts. Later, I did not continue to make this idea, but fixed the theta matrix, and I plan to consider it after all parts have been verfied.
 
+Improved version please check ["new_end2end"](https://github.com/aod321/new_end2end)
 ![result.png](https://i.loli.net/2019/12/16/5xqsoRhbZa2r3dF.png)
 
 
